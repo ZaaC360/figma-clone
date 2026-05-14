@@ -225,6 +225,7 @@ background-image: url("./assets/ctaLInes.svg");
 .blurgrad{
   position: absolute;
   left: -120px;
+  z-index: -1;
 }
 
 .box,
